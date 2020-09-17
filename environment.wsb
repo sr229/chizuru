@@ -1,0 +1,13 @@
+<Configuration> 
+  <VGpu>Default</VGpu> 
+  <Networking>Default</Networking>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Users\Public\Scripts</HostFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+     <Command>C:\users\WDAGUtilityAccount\Desktop\Scripts\setup.bat</Command>
+  </LogonCommand>
+</Configuration>

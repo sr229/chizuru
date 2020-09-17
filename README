@@ -1,0 +1,10 @@
+This is a reproducible Windows Sandbox environment intended for video streaming from a Windows Server instance.
+
+Keep in mind you will have to need to enable the Remote Audio service in the Windows Server instance to be able to stream audio.
+
+
+**Starting**
+
+First copy Scripts to C:\Users\Public (including the directory itself) and run environment.wsb. Authenticate Discord and you're good to go.
+
+
